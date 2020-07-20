@@ -78,12 +78,12 @@ function preload(){
 */ 
   
   // back = loadImage("SpaceShips/Space.jpg");
-  caps = loadImage("SpaceShips/Cap.png");
-  e1   = loadImage("SpaceShips/E1.png");
-  e2   = loadImage("SpaceShips/E2.png");
-  e3   = loadImage("SpaceShips/E3.png");
-  e4   = loadImage("SpaceShips/E4.png");
-  e5   = loadImage("SpaceShips/E5.png");
+  caps = loadImage("Cap.png");
+  e1   = loadImage("E1.png");
+  e2   = loadImage("E2.png");
+  e3   = loadImage("E3.png");
+  e4   = loadImage("E4.png");
+  e5   = loadImage("E5.png");
 //  li   = loadImage("SpaceShips/Life.png");
   
 
